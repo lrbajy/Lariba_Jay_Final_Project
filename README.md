@@ -90,7 +90,3 @@ masterclass-system/
 ├── reports.php
 └── students.php
 ```
-
-## Developers
-
-MateClass - Attendance Management System
